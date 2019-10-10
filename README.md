@@ -1,2 +1,3 @@
-# maximum-rectilinear-crossing-number-of-uniform-hypergraphs-springer-lncs
-Maximum Rectilinear Crossing Number of Uniform Hypergraphs - Springer LNCS
+# Maximum Rectilinear Crossing Number of Uniform Hypergraphs Springer - LNCS
+
+Source code and data sets for the paper.
